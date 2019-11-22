@@ -1,0 +1,17 @@
+#company{text-align:left;color:black;font:22pt bold;}
+#product{text-align:left;color:blue;font:22pt bold;}
+#before{text-align:center;color:green;font:17pt bold;text-decoration:line-through;}
+#bbefore{text-align:center;color:green;font:17pt bold;}
+#sale{text-align:left;color:red;font:17pt bold;}
+#price{text-align:left;color:green;font:17pt bold;}
+#description{text-align:left;color:black;font:14pt italic;}
+#unit{text-align:left;color:black;font:14pt;}
+#explanation{text-align:left;color:black;font:14pt;}
+#backgroundS{background-color:#ccff66}
+h1{color:red;background-color:#99ff00}
+h2{color:red;background-color:#99ff00}
+
+#menu{text-align:center;color:red;font:22pt bold;background-color:#ccff33}
+#exMenu{text-align:center;color:red;font:12pt bold;}
+#backgroundM{background-color:#99ff00}
+a{color:blue}

@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="category.xsl"?>
+<?xml version="1.0"?>
+<!DOCTYPE note SYSTEM "stock.dtd">
+
+<superFood>
+	
+	<inventory>
+		<ID sales="yes"> G001 </ID>
+		<Company> China's </Company> 
+		<Product> Rice </Product> 
+		<Category> Grain  </Category> 
+		<Description> Best rice imported from Asia! </Description> 
+		<Price> $19.00 </Price> 
+		<Sale> $14.00 </Sale> 
+		<Unit> Bag of 2kg </Unit> 
+		<Picture> pics/rice.jpg </Picture> 
+	</inventory>
+	
+	<inventory>
+		<ID sales="no"> G002 </ID>
+		<Company> King Arthur Flour </Company> 
+		<Product> Unbleached All-Purpose Flour </Product> 
+		<Category> Grain </Category> 
+		<Description> Best flour for everything! </Description> 
+		<Price> $16.00 </Price> 
+		<Sale> $12.00 </Sale> 
+		<Unit> Bag of 2.27kg </Unit> 
+		<Picture> pics/flour.jpg </Picture> 
+	</inventory>
+	
+	<inventory>
+		<ID sales="yes"> G003 </ID>
+		<Company> King Arthur Flour </Company> 
+		<Product> All-Natural White Whole Wheat Flour </Product> 
+		<Category> Grain </Category> 
+		<Description> Healthy whole wheat flour for everyone! </Description> 
+		<Price> $17.00 </Price> 
+		<Sale> $13.00 </Sale> 
+		<Unit> Bag of 2.27kg </Unit> 
+		<Picture> pics/wheatFlour.jpg </Picture> 
+	</inventory>
+	
+	<inventory>
+		<ID sales="no"> G004 </ID>
+		<Company> Posh </Company> 
+		<Product> Corn Flour </Product> 
+		<Category> Grain </Category> 
+		<Description> Tasty corn flour for the whole familly! </Description> 
+		<Price> $10.00 </Price> 
+		<Sale> $7.99 </Sale> 
+		<Unit> 500g </Unit> 
+		<Picture> pics/cornFlour.jpg </Picture> 
+	</inventory>
+	
+	<inventory>
+		<ID sales="yes"> F001 </ID>
+		<Company> Sweet </Company> 
+		<Product> Orange </Product> 
+		<Category> Fruit </Category> 
+		<Description> Sweet orange from California! </Description> 
+		<Price> $3.00 </Price> 
+		<Sale> $2.50 </Sale> 
+		<Unit> Per lb </Unit> 
+		<Picture> pics/orange.jpg </Picture> 
+	</inventory>
+	
+	<inventory>
+		<ID sales="no"> F002 </ID>
+		<Company> Delicious </Company> 
+		<Product> Apple </Product> 
+		<Category> Fruit </Category> 
+		<Description> Brand new apple from Florida! </Description> 
+		<Price> $4.00 </Price> 
+		<Sale> $3.50 </Sale> 
+		<Unit> Per lb </Unit> 
+		<Picture> pics/apple.jpg </Picture> 
+	</inventory>
+	
+	<inventory>
+		<ID sales="yes"> F003 </ID>
+		<Company> Best Fruit </Company> 
+		<Product> Cherry </Product> 
+		<Category> Fruit </Category> 
+		<Description> Sweet delicious cherry! </Description> 
+		<Price> $7.99 </Price> 
+		<Sale> $5.50 </Sale> 
+		<Unit> Per lb </Unit> 
+		<Picture> pics/cherry.jpg </Picture> 
+	</inventory>
+	
+	<inventory>
+		<ID sales="no"> F004 </ID>
+		<Company> Sun's </Company> 
+		<Product> Pineapple </Product> 
+		<Category> Fruit </Category> 
+		<Description> New arrival pineapple! </Description> 
+		<Price> $2.99 </Price> 
+		<Sale> $1.00 </Sale> 
+		<Unit> Per pineapple </Unit> 
+		<Picture> pics/pineapple.jpg </Picture> 
+	</inventory>
+	
+	<inventory>
+		<ID sales="yes"> F005 </ID>
+		<Company> Sun's </Company> 
+		<Product> Watermelon </Product> 
+		<Category> Fruit </Category> 
+		<Description> Sweet watermelon filled with water! </Description> 
+		<Price> $2.99 </Price> 
+		<Sale> $1.50 </Sale> 
+		<Unit> Per watermelon </Unit> 
+		<Picture> pics/watermelon.jpg </Picture> 
+	</inventory>
+	
+	<inventory>
+		<ID sales="no"> S001 </ID>
+		<Company> Nabisco </Company> 
+		<Product> Oreo </Product> 
+		<Category> Snacks </Category> 
+		<Description> Delicious snack for break! </Description> 
+		<Price> $4.99 </Price> 
+		<Sale> $2.99 </Sale> 
+		<Unit> Box of 453g </Unit> 
+		<Picture> pics/oreo.jpg </Picture> 
+	</inventory>
+	
+	<inventory>
+		<ID sales="yes"> S002 </ID>
+		<Company> Lay's </Company> 
+		<Product> Classic potato chips </Product> 
+		<Category> Snacks </Category> 
+		<Description> Original chips! </Description> 
+		<Price> $4.99 </Price> 
+		<Sale> $3.99 </Sale> 
+		<Unit> Bag of 42.5g </Unit> 
+		<Picture> pics/originalChips.jpg </Picture> 
+	</inventory>
+	
+	<inventory>
+		<ID sales="no"> S003 </ID>
+		<Company> Lay's </Company> 
+		<Product> Barbecue flavoured potato chips </Product> 
+		<Category> Snacks </Category> 
+		<Description> BBQed chips! </Description> 
+		<Price> $4.99 </Price> 
+		<Sale> $3.99 </Sale> 
+		<Unit> Bag of 42.5g </Unit> 
+		<Picture> pics/BBQoriginalChips.jpg </Picture> 
+	</inventory>
+	
+	<inventory>
+		<ID sales="yes"> S004 </ID>
+		<Company> Time Out </Company> 
+		<Product> Cupcake </Product> 
+		<Category> Snacks </Category> 
+		<Description> Best choice for break! </Description> 
+		<Price> $8.99 </Price> 
+		<Sale> $4.99 </Sale> 
+		<Unit> Box of 8 cupcakes </Unit> 
+		<Picture> pics/cupcake.jpg </Picture> 
+	</inventory>
+	
+	<inventory>
+		<ID sales="no"> D001 </ID>
+		<Company> Coca Cola </Company> 
+		<Product> Coca Cola </Product> 
+		<Category> Drink </Category> 
+		<Description> Popular drink for party! </Description> 
+		<Price> $7.99 </Price> 
+		<Sale> $3.99 </Sale> 
+		<Unit> Box of 24 cans </Unit> 
+		<Picture> pics/cocaCola.jpg </Picture> 
+	</inventory>
+	
+	<inventory>
+		<ID sales="yes"> D002 </ID>
+		<Company> Tropicana </Company> 
+		<Product> Orange Juice </Product> 
+		<Category> Drink </Category> 
+		<Description> Pure 100% orange juice! </Description> 
+		<Price> $3.99 </Price> 
+		<Sale> $1.99 </Sale> 
+		<Unit> Box of 2L </Unit> 
+		<Picture> pics/orangeJuice.jpg </Picture> 
+	</inventory>
+	
+	<inventory>
+		<ID sales="no"> D003 </ID>
+		<Company> Oasis </Company> 
+		<Product> Fruit Zoo </Product> 
+		<Category> Drink </Category> 
+		<Description> Pure 100% apple juice! </Description> 
+		<Price> $1.99 </Price> 
+		<Sale> $1.01 </Sale> 
+		<Unit> Box of 960mL </Unit> 
+		<Picture> pics/fruitZoo.jpg </Picture> 
+	</inventory>
+	
+	<inventory>
+		<ID sales="yes"> D004 </ID>
+		<Company> Coca Cola </Company> 
+		<Product> Sprite </Product> 
+		<Category> Drink </Category> 
+		<Description> Good choice for party! </Description> 
+		<Price> $7.99 </Price> 
+		<Sale> $3.99 </Sale> 
+		<Unit> Box of 24 cans </Unit> 
+		<Picture> pics/sprite.jpg </Picture> 
+	</inventory>
+	
+	<inventory>
+		<ID sales="no"> D005 </ID>
+		<Company> Coca Cola </Company> 
+		<Product> Fanta Orange </Product> 
+		<Category> Drink </Category> 
+		<Description> Delicious orange flavoured pop! </Description> 
+		<Price> $3.99 </Price> 
+		<Sale> $2.59 </Sale> 
+		<Unit> Box of 12 cans  </Unit> 
+		<Picture> pics/orangeFanta.jpg </Picture> 
+	</inventory>
+	
+	<inventory>
+		<ID sales="yes"> D006 </ID>
+		<Company> Coca Cola </Company> 
+		<Product> Fanta Grape </Product> 
+		<Category> Drink </Category> 
+		<Description> Delicious grape flavoured pop! </Description> 
+		<Price> $3.99 </Price> 
+		<Sale> $2.59 </Sale> 
+		<Unit> Box of 12 cans  </Unit> 
+		<Picture> pics/grapeFanta.jpg </Picture> 
+	</inventory>
+	
+	<inventory>
+		<ID sales="no"> D007 </ID>
+		<Company> Nestea </Company> 
+		<Product> Iced Tea </Product> 
+		<Category> Drink </Category> 
+		<Description> Best choice in the summer! </Description> 
+		<Price> $1.59 </Price> 
+		<Sale> $0.79 </Sale> 
+		<Unit> Bottle of 591mL </Unit> 
+		<Picture> pics/icedTea.jpg </Picture> 
+	</inventory>
+	
+	<inventory>
+		<ID sales="yes"> P001 </ID>
+		<Company> Super Food </Company> 
+		<Product> Baked chicken </Product> 
+		<Category> Precooked item </Category> 
+		<Description> 6h baked chicken!  </Description> 
+		<Price> $8.99 </Price> 
+		<Sale> $5.99 </Sale> 
+		<Unit> Chicken weighted 1.2kg </Unit> 
+		<Picture> pics/chicken.jpg </Picture> 
+	</inventory>
+	
+	<inventory>
+		<ID sales="no"> P002 </ID>
+		<Company> Super Food </Company> 
+		<Product> Steak </Product> 
+		<Category> Precooked item </Category> 
+		<Description> Delicious steak! </Description> 
+		<Price> $6.99 </Price> 
+		<Sale> $4.00 </Sale> 
+		<Unit> Per plate </Unit> 
+		<Picture> pics/steak.jpg </Picture> 
+	</inventory>
+	
+	<inventory>
+		<ID sales="yes"> P003 </ID>
+		<Company> Super Food </Company> 
+		<Product> Chicken Wing </Product> 
+		<Category> Precooked iteam </Category> 
+		<Description> Fresh baked chinken wings in Buffalo sauce! </Description> 
+		<Price> $10.99 </Price> 
+		<Sale> $5.99 </Sale> 
+		<Unit> Plate of 25 wings </Unit> 
+		<Picture> pics/wing.jpg </Picture> 
+	</inventory>
+	
+	<inventory>
+		<ID sales="no"> P004 </ID>
+		<Company> Super Food </Company> 
+		<Product> Salad </Product> 
+		<Category> Precooked iteam </Category> 
+		<Description> Healthy fresh salad! </Description> 
+		<Price> $4.99 </Price> 
+		<Sale> $1.99 </Sale> 
+		<Unit> Per bowl </Unit> 
+		<Picture> pics/salad.jpg </Picture> 
+	</inventory>
+	
+	<inventory>
+		<ID sales="yes"> C001 </ID>
+		<Company> Gortons </Company> 
+		<Product> Fish Fillets </Product> 
+		<Category> Frozens </Category> 
+		<Description> Easy to cook fish fillets! </Description> 
+		<Price> $6.99 </Price> 
+		<Sale> $3.00 </Sale> 
+		<Unit> Per box of 600g </Unit> 
+		<Picture> pics/fish.jpg </Picture> 
+	</inventory>
+	
+	<inventory>
+		<ID sales="no"> C002 </ID>
+		<Company> Sirloin </Company> 
+		<Product> Beef burgers </Product> 
+		<Category> Frozens </Category> 
+		<Description> Ready to eat in 25 minutes! </Description> 
+		<Price> $7.99 </Price> 
+		<Sale> $3.59 </Sale> 
+		<Unit> Box of 8 burgers </Unit> 
+		<Picture> pics/beef.jpg </Picture> 
+	</inventory>
+	
+	<inventory>
+		<ID sales="yes"> C003 </ID>
+		<Company> Nestle </Company> 
+		<Product> Drumsticks </Product> 
+		<Category> Frozens </Category> 
+		<Description> Low fat ice cream! </Description> 
+		<Price> $7.99 </Price> 
+		<Sale> $3.59 </Sale> 
+		<Unit> Box of 4 drumsticks </Unit> 
+		<Picture> pics/iceCream.jpg </Picture> 
+	</inventory>
+	
+	<inventory>
+		<ID sales="no"> C004 </ID>
+		<Company> Haagen-Dazs </Company> 
+		<Product> Vanilla ice cream </Product> 
+		<Category> Frozens </Category> 
+		<Description> Delicious ice cream! </Description> 
+		<Price> $8.99 </Price> 
+		<Sale> $4.99 </Sale> 
+		<Unit> Box of 365mL </Unit> 
+		<Picture> pics/Haagen-Dazs.jpg </Picture> 
+	</inventory>
+	
+	<inventory>
+		<ID sales="yes"> V001 </ID>
+		<Company> Best's </Company> 
+		<Product> Lettuce </Product> 
+		<Category> Vegetable </Category> 
+		<Description> New arrival lettuce! </Description> 
+		<Price> $1.58 </Price> 
+		<Sale> $0.79 </Sale> 
+		<Unit> Per lettuce </Unit> 
+		<Picture> pics/lettuce.jpg </Picture> 
+	</inventory>
+	
+	<inventory>
+		<ID sales="no"> V002 </ID>
+		<Company> Deli's </Company> 
+		<Product> Tomato  </Product> 
+		<Category> Vegetable </Category> 
+		<Description> Best tomato! </Description> 
+		<Price> $0.99 </Price> 
+		<Sale> $0.39 </Sale> 
+		<Unit> Per lb </Unit> 
+		<Picture> pics/tomato.jpg </Picture> 
+	</inventory>
+	
+	<inventory>
+		<ID sales="yes"> V003 </ID>
+		<Company> Best's </Company> 
+		<Product> Onion </Product> 
+		<Category> Vegetable </Category> 
+		<Description> Sweet onion! </Description> 
+		<Price> $3.99 </Price> 
+		<Sale> $1.29 </Sale> 
+		<Unit> Bag of 25lb </Unit> 
+		<Picture> pics/onion.jpg </Picture> 
+	</inventory>
+	
+	<inventory>
+		<ID sales="no"> V004 </ID>
+		<Company> Best's </Company> 
+		<Product> Potato </Product> 
+		<Category> Vegetable </Category> 
+		<Description> Best for mashed potato! </Description> 
+		<Price> $2.99 </Price> 
+		<Sale> $1.79 </Sale> 
+		<Unit> Bag of 20lb </Unit> 
+		<Picture> pics/potato.jpg </Picture> 
+	</inventory>
+
+</superFood>
+

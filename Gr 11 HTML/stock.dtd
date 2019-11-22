@@ -1,0 +1,12 @@
+	<!ELEMENT inventory (to,from,heading,body)>
+	<!ATTLIST ID sales CDATA "">
+	<!ELEMENT Company (#PCDATA)>
+	<!ELEMENT Product (#PCDATA)>
+	<!ELEMENT Category (#PCDATA)>
+	<!ELEMENT Description (#PCDATA)>
+	<!ELEMENT Price (#PCDATA)>
+	<!ELEMENT Sale (#PCDATA)>
+	<!ELEMENT Unit (#PCDATA)>
+	<!ELEMENT Picture (#PCDATA)>
+
+
